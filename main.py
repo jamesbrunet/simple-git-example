@@ -5,4 +5,10 @@
 name = input("What is yo name? ")
 print("Hello, {}".format(name))
 
+username = input("Enter username: ")
+if username == "James":
+    print("You are super duper cool")
+else:
+    print("Get the HECK outta here!")
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
