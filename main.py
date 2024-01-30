@@ -5,7 +5,7 @@
 name = input("What is yo name? ")
 print("Hello, {}".format(name))
 
-username = input("Enter username: ")
+username = input("Enter user-name: ")
 if username == "James":
     print("You are super duper cool")
 else:
